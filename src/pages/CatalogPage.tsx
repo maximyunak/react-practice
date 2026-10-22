@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { Breadcrumbs } from "../components/Breadcrumbs.tsx";
 import { ProductCard } from "../components/ProductCard.tsx";
 import { CATEGORIES, PRODUCTS, type Category, type Product } from "../mock/products.ts";
